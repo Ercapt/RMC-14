@@ -1,19 +1,19 @@
-﻿rmc-intel-suffix = {$baseName} ({$number})
+rmc-intel-suffix = {$baseName} ({$number})
 rmc-intel-unlocked = {$baseName} ({$unlocked})
 rmc-intel-serial-name = {$baseName} #{$serial}
-rmc-intel-serial-examine = The serial number is {$serial}.
-rmc-intel-announcement = TECH REPORT: {$points} points available.
-rmc-intel-announcement-gain = TECH REPORT: {$points} points available (+{$change}).
-rmc-intel-reports = Reports
-rmc-intel-folders = Folders
-rmc-intel-manuals = Manuals
-rmc-intel-clue-paper-scrap = {$intel} in {$area}.
-rmc-intel-clue-progress-report = A {$intel} in {$area}.
-rmc-intel-clue-folder = A {$intel} in {$area}.
-rmc-intel-clue-technical-manual = {$intel} in {$area}.
-rmc-intel-clue-experimental-device = Retrieve {$intel} in {$area}.
-rmc-intel-not-intel-jumpsuit = You cannot wear this without wearing a marine intelligence officer uniform.
-rmc-intel-survivor-pickup = You have no use for the {$thing}.
-    Focus on getting out alive first.
-rmc-intel-survivor-read = You have no need to read the {$thing}.
-    Focus on getting out alive first.
+rmc-intel-serial-examine = Серійний номер: {$serial}.
+rmc-intel-announcement = ТЕХНІЧНИЙ ЗВІТ: доступно {$points} балів.
+rmc-intel-announcement-gain = ТЕХНІЧНИЙ ЗВІТ: доступно {$points} балів (+{$change}).
+rmc-intel-reports = Звіти
+rmc-intel-folders = Папки
+rmc-intel-manuals = Керівництва
+rmc-intel-clue-paper-scrap = {$intel} в {$area}.
+rmc-intel-clue-progress-report = {$intel} в {$area}.
+rmc-intel-clue-folder = {$intel} в {$area}.
+rmc-intel-clue-technical-manual = {$intel} в {$area}.
+rmc-intel-clue-experimental-device = Заберіть {$intel} в {$area}.
+rmc-intel-not-intel-jumpsuit = Ви не можете носити це без уніформи офіцера розвідки.
+rmc-intel-survivor-pickup = Вам не потрібен {$thing}.
+    Спершу зосередьтеся на виживанні.
+rmc-intel-survivor-read = Вам немає потреби читати {$thing}.
+    Спершу зосередьтеся на виживанні.
