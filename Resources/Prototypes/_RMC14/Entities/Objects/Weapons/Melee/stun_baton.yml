@@ -1,8 +1,8 @@
 - type: entity
   parent: Stunbaton
   id: CMStunbaton
-  name: stun baton
-  description: A stun baton for incapacitating people with.
+  name: Електрошокова палиця
+  description: Електрошокова палиця, що шокує людей
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Melee/stun_baton.rsi
@@ -25,8 +25,8 @@
 - type: entity
   parent: CMStunbaton
   id: RMCTelescopicBaton
-  name: telescopic baton
-  description: A compact yet rebalanced personal defense weapon. Can be concealed when folded.
+  name: телескопічний кийок
+  description: Компактна та добре збалансована зброя для самозахисту. У складеному стані її можна сховати.
   components:
   - type: Item
     size: Small
